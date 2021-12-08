@@ -1,0 +1,318 @@
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+MTProto:        	Filling database cache. This can take few minutes.
+MTProto:        	Cache filled.
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Disconnecting all before reconnect!
+DataCenterConnection: 	Disconnecting from shared DC 
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.51:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 2.0
+Session:        	Resetting session in DC 2.0...
+DataCenter:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 1.0
+Session:        	Resetting session in DC 1.0...
+DataCenter:     	Reconnecting to DC 2_media (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.151:443 main DC 2_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 2_media.0
+Session:        	Resetting session in DC 2_media.0...
+DataCenter:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 3.0
+Session:        	Resetting session in DC 3.0...
+DataCenter:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 4.0
+Session:        	Resetting session in DC 4.0...
+DataCenter:     	Reconnecting to DC 4_media (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.164.250:443 main DC 4_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 4_media.0
+Session:        	Resetting session in DC 4_media.0...
+DataCenter:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.164:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 5.0
+Session:        	Resetting session in DC 5.0...
+Connection:     	Connected to DC 2_media.0!
+Connection:     	Connecting to DC 2_media.1
+Session:        	Resetting session in DC 2_media.1...
+Connection:     	Connected to DC 4.0!
+DataCenterConnection: 	Restoring 0 messages to DC 4
+DataCenter:     	OK!
+Connection:     	Connected to DC 4_media.0!
+Connection:     	Connecting to DC 4_media.1
+Session:        	Resetting session in DC 4_media.1...
+Connection:     	Connected to DC 2.0!
+DataCenterConnection: 	Restoring 0 messages to DC 2
+DataCenter:     	OK!
+Connection:     	Connected to DC 2_media.1!
+Connection:     	Connecting to DC 2_media.2
+Session:        	Resetting session in DC 2_media.2...
+Connection:     	Connected to DC 4_media.1!
+Connection:     	Connecting to DC 4_media.2
+Session:        	Resetting session in DC 4_media.2...
+Connection:     	Connected to DC 2_media.2!
+Connection:     	Connecting to DC 2_media.3
+Session:        	Resetting session in DC 2_media.3...
+Connection:     	Connected to DC 4_media.2!
+Connection:     	Connecting to DC 4_media.3
+Session:        	Resetting session in DC 4_media.3...
+Connection:     	Connected to DC 3.0!
+DataCenterConnection: 	Restoring 0 messages to DC 3
+DataCenter:     	OK!
+Connection:     	Connected to DC 5.0!
+DataCenterConnection: 	Restoring 0 messages to DC 5
+DataCenter:     	OK!
+Connection:     	Connected to DC 2_media.3!
+Connection:     	Connecting to DC 2_media.4
+Session:        	Resetting session in DC 2_media.4...
+Connection:     	Connected to DC 4_media.3!
+Connection:     	Connecting to DC 4_media.4
+Session:        	Resetting session in DC 4_media.4...
+Connection:     	Connected to DC 2_media.4!
+DataCenterConnection: 	Restoring 0 messages to DC 2_media
+DataCenter:     	OK!
+Connection:     	Connected to DC 4_media.4!
+DataCenterConnection: 	Restoring 0 messages to DC 4_media
+DataCenter:     	OK!
+Connection:     	Connected to DC 1.0!
+DataCenterConnection: 	Restoring 0 messages to DC 1
+DataCenter:     	OK!
+MTProto:        	Initing authorization...
+MTProto:        	Initing authorization DC 2...
+MTProto:        	Done initing authorization DC 2
+MTProto:        	Initing authorization DC 1...
+MTProto:        	Done initing authorization DC 1
+MTProto:        	Initing authorization DC 3...
+MTProto:        	Done initing authorization DC 3
+MTProto:        	Initing authorization DC 4...
+MTProto:        	Done initing authorization DC 4
+MTProto:        	Initing authorization DC 5...
+MTProto:        	Done initing authorization DC 5
+MTProto:        	Initing authorization DC 2_media...
+MTProto:        	Done initing authorization DC 2_media
+MTProto:        	Initing authorization DC 4_media...
+MTProto:        	Done initing authorization DC 4_media
+DataCenter:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.51:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 2_media (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.151:443 main DC 2_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 4_media (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.164.250:443 main DC 4_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.164:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+MTProto:        	Initing authorization...
+MTProto:        	Initing authorization DC 2...
+MTProto:        	Done initing authorization DC 2
+MTProto:        	Initing authorization DC 1...
+MTProto:        	Done initing authorization DC 1
+MTProto:        	Initing authorization DC 3...
+MTProto:        	Done initing authorization DC 3
+MTProto:        	Initing authorization DC 4...
+MTProto:        	Done initing authorization DC 4
+MTProto:        	Initing authorization DC 5...
+MTProto:        	Done initing authorization DC 5
+MTProto:        	Initing authorization DC 2_media...
+MTProto:        	Done initing authorization DC 2_media
+MTProto:        	Initing authorization DC 4_media...
+MTProto:        	Done initing authorization DC 4_media
+MTProto:        	Not fetching phone config
+MTProto:        	Not fetching phone config
+MTProto:        	Accepted IPC client connection!
+MsgIdHandler64: 	Given message id (7028633103040774145) is bigger than or equal to the current limit (7028633103040766977). Consider syncing your date.
+MTProto:        	Initing authorization...
+MTProto:        	Initing authorization DC 2...
+MTProto:        	Done initing authorization DC 2
+MTProto:        	Initing authorization DC 1...
+MTProto:        	Done initing authorization DC 1
+MTProto:        	Initing authorization DC 3...
+MTProto:        	Done initing authorization DC 3
+MTProto:        	Initing authorization DC 4...
+MTProto:        	Done initing authorization DC 4
+MTProto:        	Initing authorization DC 5...
+MTProto:        	Done initing authorization DC 5
+MTProto:        	Initing authorization DC 2_media...
+MTProto:        	Done initing authorization DC 2_media
+MTProto:        	Initing authorization DC 4_media...
+MTProto:        	Done initing authorization DC 4_media
+AckHandler:     	Could not find users.getUsers with message ID 7028633101374849024 in new_outgoing!
+MTProto:        	AUTH_KEY_UNREGISTERED
+MTProto:        	Starting update system
+API:            	MadelineProto is ready!
+SessionPaths:   	Waiting for exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.ipcState.php.lock...
+MsgIdHandler:   	Garbage collected 4 incoming messages, 0 left
+MsgIdHandler:   	Garbage collected 1 outgoing messages, 0 left
+GarbageCollector: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Login:          	Sending code...
+Login:          	Code sent successfully! Once you receive the code you should use the completePhoneLogin function.
+MsgIdHandler:   	Garbage collected 1 incoming messages, 0 left
+MsgIdHandler:   	Garbage collected 2 outgoing messages, 0 left
+Login:          	Logging in as a normal user...
+MsgIdHandler:   	Can't garbage collect auth.signIn with message ID 7028633217338966016
+MsgIdHandler:   	Garbage collected 1 outgoing messages, 1 left
+MTProto:        	Initing authorization...
+MTProto:        	Initing authorization DC 2...
+MTProto:        	Done initing authorization DC 2
+MTProto:        	Initing authorization DC 1...
+AuthKeyHandler: 	Trying to copy authorization from DC 2 to DC 1
+MTProto:        	Initing authorization DC 3...
+AuthKeyHandler: 	Trying to copy authorization from DC 2 to DC 3
+MTProto:        	Initing authorization DC 4...
+AuthKeyHandler: 	Trying to copy authorization from DC 2 to DC 4
+MTProto:        	Initing authorization DC 5...
+AuthKeyHandler: 	Trying to copy authorization from DC 2 to DC 5
+MsgIdHandler64: 	Given message id (7028633222790278145) is bigger than or equal to the current limit (7028633222790252545). Consider syncing your date.
+MsgIdHandler64: 	Given message id (7028633223231270913) is bigger than or equal to the current limit (7028633223231246337). Consider syncing your date.
+MTProto:        	Done initing authorization DC 4
+MsgIdHandler64: 	Given message id (7028633224336517121) is bigger than or equal to the current limit (7028633224336492545). Consider syncing your date.
+MTProto:        	Done initing authorization DC 3
+MsgIdHandler64: 	Given message id (7028633224852642817) is bigger than or equal to the current limit (7028633224852628481). Consider syncing your date.
+MTProto:        	Done initing authorization DC 5
+MsgIdHandler64: 	Given message id (7028633224935390209) is bigger than or equal to the current limit (7028633224935387137). Consider syncing your date.
+MTProto:        	Done initing authorization DC 1
+MTProto:        	Initing authorization DC 2_media...
+MTProto:        	Done initing authorization DC 2_media
+MTProto:        	Initing authorization DC 4_media...
+MTProto:        	Done initing authorization DC 4_media
+MTProto:        	Not fetching phone config
+MTProto:        	Starting update system
+Login:          	Logged in successfully!
+MsgIdHandler:   	Garbage collected 4 incoming messages, 0 left
+MsgIdHandler:   	Garbage collected 1 outgoing messages, 0 left
+MsgIdHandler:   	Garbage collected 7 incoming messages, 0 left
+MsgIdHandler:   	Can't garbage collect users.getUsers with message ID 7028633225928900608
+MsgIdHandler:   	Garbage collected 7 outgoing messages, 1 left
+MTProto:        	Prompting final serialization (SHUTDOWN)...
+SessionPaths:   	Waiting for exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/andrew/NetBeansProjects/test/secret.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+MsgIdHandler:   	Garbage collected 4 incoming messages, 0 left
+MsgIdHandler:   	Garbage collected 1 outgoing messages, 0 left
+MTProto:        	Done final serialization (SHUTDOWN)!
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto:        	Will unreference instance
+UpdateLoop:     	Exiting getUpdate loop generic due to signal
+DataCenterConnection: 	Disconnecting from shared DC 2
+Connection:     	Disconnecting from DC 2.0
+DataCenterConnection: 	Backed up  from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2
+DataCenterConnection: 	Disconnecting from shared DC 1
+Connection:     	Disconnecting from DC 1.0
+DataCenterConnection: 	Backed up  from DC 1.0
+Connection:     	Disconnected from DC 1.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 1
+DataCenterConnection: 	Disconnecting from shared DC 2_media
+Connection:     	Disconnecting from DC 2_media.0
+DataCenterConnection: 	Backed up  from DC 2_media.0
+Connection:     	Disconnected from DC 2_media.0
+Connection:     	Disconnecting from DC 2_media.1
+DataCenterConnection: 	Backed up  from DC 2_media.1
+Connection:     	Disconnected from DC 2_media.1
+Connection:     	Disconnecting from DC 2_media.2
+DataCenterConnection: 	Backed up  from DC 2_media.2
+Connection:     	Disconnected from DC 2_media.2
+Connection:     	Disconnecting from DC 2_media.3
+DataCenterConnection: 	Backed up  from DC 2_media.3
+Connection:     	Disconnected from DC 2_media.3
+Connection:     	Disconnecting from DC 2_media.4
+DataCenterConnection: 	Backed up  from DC 2_media.4
+Connection:     	Disconnected from DC 2_media.4
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2_media
+DataCenterConnection: 	Disconnecting from shared DC 3
+Connection:     	Disconnecting from DC 3.0
+DataCenterConnection: 	Backed up  from DC 3.0
+Connection:     	Disconnected from DC 3.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 3
+DataCenterConnection: 	Disconnecting from shared DC 4
+Connection:     	Disconnecting from DC 4.0
+DataCenterConnection: 	Backed up  from DC 4.0
+Connection:     	Disconnected from DC 4.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 4
+DataCenterConnection: 	Disconnecting from shared DC 4_media
+Connection:     	Disconnecting from DC 4_media.0
+DataCenterConnection: 	Backed up  from DC 4_media.0
+Connection:     	Disconnected from DC 4_media.0
+Connection:     	Disconnecting from DC 4_media.1
+DataCenterConnection: 	Backed up  from DC 4_media.1
+Connection:     	Disconnected from DC 4_media.1
+Connection:     	Disconnecting from DC 4_media.2
+DataCenterConnection: 	Backed up  from DC 4_media.2
+Connection:     	Disconnected from DC 4_media.2
+Connection:     	Disconnecting from DC 4_media.3
+DataCenterConnection: 	Backed up  from DC 4_media.3
+Connection:     	Disconnected from DC 4_media.3
+Connection:     	Disconnecting from DC 4_media.4
+DataCenterConnection: 	Backed up  from DC 4_media.4
+Connection:     	Disconnected from DC 4_media.4
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 4_media
+DataCenterConnection: 	Disconnecting from shared DC 5
+Connection:     	Disconnecting from DC 5.0
+DataCenterConnection: 	Backed up  from DC 5.0
+Connection:     	Disconnected from DC 5.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 5
+MTProto:        	Unreferenced instance
+Serialization:  	Unlocking exclusive session lock!
+Serialization:  	Unlocked exclusive session lock!
+MTProto:        	Shutting down MadelineProto (MTProto)
+MTProto:        	Will unreference instance
+DataCenterConnection: 	Disconnecting from shared DC 2
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2
+DataCenterConnection: 	Disconnecting from shared DC 1
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 1
+DataCenterConnection: 	Disconnecting from shared DC 2_media
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2_media
+DataCenterConnection: 	Disconnecting from shared DC 3
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 3
+DataCenterConnection: 	Disconnecting from shared DC 4
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 4
+DataCenterConnection: 	Disconnecting from shared DC 4_media
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 4_media
+DataCenterConnection: 	Disconnecting from shared DC 5
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 5
+MTProto:        	Unreferenced instance
+MTProto:        	Successfully destroyed MadelineProto
